@@ -11,6 +11,7 @@ namespace WebAPI.Models
         public string Name { get; set; }
         public string Category { get; set; }
         public decimal Price { get; set; }
-        
+
+        public int IdTest { get; set; }
     }
 }
