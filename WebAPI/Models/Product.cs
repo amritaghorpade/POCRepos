@@ -12,7 +12,7 @@ namespace WebAPI.Models
         public string Category { get; set; }
         public decimal Price { get; set; }
 
-        public int IdTestUpdate { get; set; }
+        
 
         
         
