@@ -15,6 +15,8 @@ namespace WebAPI.Models
         public int IdTestUpdate { get; set; }
 
         public int IdTest { get; set; }
-        
+
+        public int IdTestNewwww { get; set; }
+
     }
 }
