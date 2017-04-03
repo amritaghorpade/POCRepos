@@ -17,6 +17,7 @@ namespace WebAPI.Models
         public int IdTest { get; set; }
 
         public int IdTestNewwww { get; set; }
+        public int IdAddNewProp { get; set; }
 
     }
 }
